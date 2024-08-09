@@ -1,0 +1,1 @@
+This is a simple clock in web development
